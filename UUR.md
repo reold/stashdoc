@@ -16,7 +16,7 @@ eg:
 ![reverse card](<assets/Reverse.png>)
 - 10 is *(numbered, red) 2*\
 ![red 2 card](<assets/Numbered Red 2.png>)
-- 10_00_0000 is *(uncolored) 4*
+- 10_00_0000 is *(uncolored) 4*\
 ![plus 4](<assets/Plus 4.png>)
 
 ![stash game logo](<assets/StashLogo.png>)
