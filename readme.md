@@ -1,4 +1,4 @@
-![Alt text](StashLogo.png)
+![Stash Logo](assets/StashLogo.png)
 # Welcome to Stash Documentation!
 Here you can find internal documentation about the [Stash game](https://reold.github.io)!
 

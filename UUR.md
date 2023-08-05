@@ -13,11 +13,11 @@
 |0000|number|decimal equilavent(0-9)|
 eg: 
 - 11_00_0000 is *(uncolored) reverse*\
-![reverse card](Reverse.png)
+![reverse card](<assets/Reverse.png>)
 - 10 is *(numbered, red) 2*\
-![red 2 card](<Numbered Red 2.png>)
+![red 2 card](<assets/Numbered Red 2.png>)
 - 10_00_0000 is *(uncolored) 4*
-- ![plus 4](<Plus 4.png>)
+![plus 4](<assets/Plus 4.png>)
 
-![stash game logo](StashLogo.png)
-*Internal Documentation of Stash. Pictures and media captured from game*
+![stash game logo](<assets/StashLogo.png>)
+*Internal Documentation of [Stash](readme.md) Pictures and media captured from game*
